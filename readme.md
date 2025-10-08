@@ -1,4 +1,5 @@
-# Examples
+
+xamples
 
 These are examples using Deno with a specific framework, module, or tool.
 
@@ -40,4 +41,4 @@ For general instructions on using Deno, please refer to
 ## OpenTelemetry
 
 - [Honeycomb](https://github.com/denoland/examples/tree/main/with-honeycomb)
-- [Hyperdx](https://github.com/denoland/examples/tree/main/with-hyperdx)
+- [Hyperdx](https://github.com/denoland/examples/tree/main/with-hyperdx
